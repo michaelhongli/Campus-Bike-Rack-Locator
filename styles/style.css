@@ -1,0 +1,14 @@
+
+body{
+    background-color: rgb(5, 0, 109);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#map{
+    height: 80vh;
+}
+
+.description{
+    color:white;
+    font-size: 30px;
+}
